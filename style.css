@@ -1,0 +1,21 @@
+.img {
+    position: relative;
+}
+  
+.text {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    opacity: 50%;
+    color: white;
+    line-height: 80%;
+}
+  
+img { 
+    width: 100%;
+    height: auto;
+}
